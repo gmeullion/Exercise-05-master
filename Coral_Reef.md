@@ -6,23 +6,23 @@
   </head>
 
   <body>
-
+n
     <h1>Web Images</h1>
-
+k
     <p>Original Image: 1.9MB</p>
-
+k
     <img src="coral-reef-low.jpg" alt="low quality jpg" />
     <p>Low quality (0%). File size: </p>
-
+k
     <img src="coral-reef-medium.jpg" alt="medium quality jpg" />
     <p>Medium quality (30%). File size: </p>
-
+k
     <img src="coral-reef-high.jpg" alt="high quality jpg" />
     <p>High quality (60%). File size: </p>
-
+k
     <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
     <p>Very quality (80%). File size: </p>
-
+k
     <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
     <p>Maximum quality (100%). File size: </p>
 
