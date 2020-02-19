@@ -9,7 +9,7 @@
 
    <h1>Web Images</h1>
    
-<img src="coral-reef.jpg" alt="Orignal Immage jpg" />
+<img src="coral-reef.jpg" alt="Orignal Image jpg" />
     File size:1.85 </p>
     
 <img src="coral-reef-low.jpg" alt="low quality jpg" />
