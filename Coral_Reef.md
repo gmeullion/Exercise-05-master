@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Web Images</title>
+   <!-- <title>Web Images</title>-->
   </head>
 
   <body>
